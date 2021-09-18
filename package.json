@@ -41,6 +41,14 @@
       {
         "language": "html-eex",
         "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "phoenix-heex",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "surface",
+        "path": "./snippets/snippets.json"
       }
     ]
   }
